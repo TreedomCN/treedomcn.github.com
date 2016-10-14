@@ -538,7 +538,8 @@ margin on the iframe, cause it breaks stuff. */
 .post-template .site-head {
     color: #303538;
     border-bottom: #ebf2f6 1px solid;
-    background: none !important;
+    width: 30%;
+    /*background: none !important;*/
 }
 
 .post-template .site-head:after {
