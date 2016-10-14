@@ -536,7 +536,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .post-template .site-head {
-    color: #303538;
+    /*color: #303538;*/
     border-bottom: #ebf2f6 1px solid;
     height: 30%;
     /*background: none !important;*/
@@ -588,7 +588,7 @@ margin on the iframe, cause it breaks stuff. */
 
 /* Create some space to the right for the share links */
 .post-footer .author {
-    margin-right: 180px;
+    margin: 0 auto;
 }
 
 /* Drop the share links in the space to the right.
